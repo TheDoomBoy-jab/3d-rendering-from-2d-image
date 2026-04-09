@@ -1,8 +1,5 @@
-input/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
 *.csv
-*.pth
-*.h5
-input/
-*.csv
-*.pth
-*.h5
+*.zip
